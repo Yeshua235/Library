@@ -1,7 +1,9 @@
+# pylint: skip-file
 # pylint: disable=invalid-str-returned
 # pylint: disable=missing-module-docstring
 # pylint: disable=unused-import
 # pylint: disable=relative-beyond-top-level
+
 from django.test import TestCase
 
 # Create your tests here.
